@@ -13,7 +13,7 @@ nest_asyncio.apply()
 logging.basicConfig(level=logging.INFO)
 
 # Токен бота
-API_TOKEN = '7804377961:AAGoVpdB0XE_zEElcFO2Uk7y3I4ZoR9N5iU'
+API_TOKEN = 'YOUE_TOKEN_CHAT_BOT'
 
 # Объекты бота и диспетчера
 bot = Bot(token=API_TOKEN)
