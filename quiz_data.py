@@ -22,7 +22,7 @@ quiz_data = [
     },
     {
         'question': 'Какая из этих конструкций является условным оператором в Python?',
-        'options': ['if', 'while', 'for', 'def'],
+        'options': ['if', 'while', 'for', 'for each'],
         'correct_option': 0
     },
     {
