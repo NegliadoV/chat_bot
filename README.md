@@ -1,5 +1,12 @@
 # Quiz Bot
 
+## Как установить
+
+1. **Клонировать репозиторий** - git clone https://github.com/NegliadoV/chat_bot.git
+2. **Устанавливаем зависимости** - pip install -r requirements.txt
+3. **Cоздать файл .env и прописать переменную** - API_KEY=your_api_key_here
+
+
 ## Команды бота
 
 1. **/start** - Начать работу с ботом.
